@@ -46,9 +46,6 @@ Armazena informações sobre as pessoas, categorizando-as como conhecidas ou des
 Como Usar
 Clone o repositório:
 
-bash
-Copiar código
-git clone https://github.com/seu-usuario/smart-home.git
 Importe o banco de dados MySQL utilizando o script SQL fornecido.
 
 Execute as consultas para gerar os relatórios e interagir com os dados da residência.
